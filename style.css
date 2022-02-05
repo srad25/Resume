@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+.left-side  {
+    padding: 5%;
+    background-color: khaki;
+    
+}
+.left-side h1 {
+    color:rgb(155, 151, 148);
+    padding-bottom: 5%;
+    border-bottom: solid rgb(122, 124, 122);
+}
+.left-side p {
+    padding: 0%;
+    
+}
+
+.left-side i {
+    color: rgb(155, 151, 148);
+}
+.bottom-left{
+    padding: 5%;
+    background-color: khaki; 
+}
+.skills {
+    padding-bottom: 35%;
+    padding-top: 30%;
+}
+.skills li {
+    padding: 3%;
+}
+.education li {
+    padding: 5%;
+}
+.right-side {
+    padding-top: 20%;
+}
+.experience {
+    padding-top: 15%;
+}
